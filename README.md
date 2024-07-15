@@ -3,7 +3,7 @@
 [![GitHub Super-Linter](https://github.com/karpikpl/sample-action/actions/workflows/linter.yml/badge.svg)](https://github.com/super-linter/super-linter)
 ![CI](https://github.com/karpikpl/sample-action/actions/workflows/ci.yml/badge.svg)
 
-GitHub action that lists all files changed (were added, modified) in the
+GitHub Action that lists all files changed (were added, modified) in the
 provided pull request.
 
 ## Usage
